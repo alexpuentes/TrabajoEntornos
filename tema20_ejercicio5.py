@@ -8,7 +8,7 @@ def mediaAritmetica(n1,n2):
     @param n2 el segundo numero
     
     @return El promedio de los dos números.
-    esto es una prueba para v
+    
     """
  
    
@@ -57,11 +57,11 @@ def sumatorio (numero):
     """
 
 
-def factorial (numero):
+def factorial (num):
     
-    for i in range (1, numero):
-        numero= numero*i
-    return numero
+    for i in range (1, num):
+        num= num*i
+    return num
 
     """
     Calcula el factorial de un número.
