@@ -1,4 +1,4 @@
-def mediaAritmetica(n1,n2):
+def mediaAritmetica_nueva_funcion(n1,n2):
     return (n1 + n2)/2
  
     """
