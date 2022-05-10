@@ -9,6 +9,7 @@ def mediaAritmetica(n1,n2):
     
     @return El promedio de los dos números.
     hace mucho calor hace mucho calor
+    test
     """
  
    
