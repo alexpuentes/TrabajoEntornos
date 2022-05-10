@@ -8,6 +8,7 @@ def mediaAritmetica(n1,n2):
     @param n2 el segundo numero
     
     @return El promedio de los dos números.
+    esto es una prueba para v
     """
  
    
