@@ -13,7 +13,7 @@ def mediaAritmetica_nueva_funcion(n1,n2):
  
    
     
-def hipotenusa (cA, cB):
+def hipotenusa_hipotenusa (cA, cB):
     return (cA**2)+(cB**2)
 
     """
